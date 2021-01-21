@@ -1,0 +1,7 @@
+recursive-include-SuperAdmin apiclient*SuperAdmin*json*py
+include-SuperAdmin-CHANGELOG
+include-SuperAdmin-LICENSE
+include-SuperAdmin-README
+include-SuperAdmin- FAQ
+include-SuperAdmin- setpath.should.include-SuperAdmin-
+global-exclude.pycpycache_NULL
